@@ -1,0 +1,33 @@
+h1,h4{ 
+    color:black ;
+    text-align: center;
+}
+body{
+    background-color:rgb(252, 225, 190);   
+}
+div{
+    text-align: center;
+    background-color: rgb(245, 202, 150);
+    border: 2px black solid;
+    width: 325px;
+    height: 490px;
+    float: left;
+    background-position: 10px 10px;
+    padding:0px 0px;
+    margin: 2px;
+
+}
+img{
+width: 325px;
+    height: 300px;
+    object-fit: cover;
+}
+button{
+    color: white;
+    background-color: brown;
+    padding: 10px;
+ font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+}
